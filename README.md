@@ -1,6 +1,6 @@
 - :mage: Hi, I’m @EleventyThree
-- :brain: Artificial intelligence and omniscience.
-- :world_map: On an adventure to learn all. 
+- :brain: I'm interested in artificial intelligence and omniscience.
+- :world_map: On an adventure to learn it all. 
 - :point_right: Reachable via .ppt bat signal 
 
 <!---
