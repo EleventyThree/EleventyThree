@@ -1,4 +1,4 @@
 - 🧙 Hi, I’m @EleventyThree
-- 🧠 I'm interested in all things machine learning and responsible artificial intelligence
+- 🧠 I'm interested in all things data, machine learning, responsible artificial intelligence, and human computer interaction
 - 🗺️ On an adventure to learn it all
 - 💬 Ask me about how to productize your AI / ML experiments 
